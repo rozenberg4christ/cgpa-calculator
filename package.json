@@ -1,0 +1,18 @@
+{
+	"name": "gpa",
+	"version": "1.0.0",
+	"description": "Calculate GPA",
+	"main": "main.js",
+	"scripts": {
+		"start": "tsc index && node ."
+	},
+	"keywords": [
+		"gpa"
+	],
+	"devDependencies": {
+		"@types/node": "^16.11.7",
+		"ts-node": "^8.3.0",
+		"typescript": "^4.0.3"
+	},
+	"license": "ISC"
+}
